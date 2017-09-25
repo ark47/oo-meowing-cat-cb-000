@@ -5,7 +5,3 @@ class Cat
     puts "meow!"
   end
 end
-
-# garf = Cat.new
-# garf.name = "Garfield"
-# garf.meow
