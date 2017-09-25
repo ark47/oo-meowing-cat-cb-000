@@ -6,6 +6,6 @@ class Cat
   end
 end
 
-garf = Cat.new
-garf.name = "Garfield"
-garf.meow
+# garf = Cat.new
+# garf.name = "Garfield"
+# garf.meow
